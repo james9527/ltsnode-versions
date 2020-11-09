@@ -1,6 +1,6 @@
 {
   "name": "ltsnode-versions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CommandLine Tool for Node LTS",
   "main": "index.js",
   "bin": {
@@ -27,7 +27,8 @@
     "axios": "^0.21.0",
     "cli-color": "^2.0.0",
     "cli-table": "^0.3.1",
-    "compare-versions": "^3.6.0"
+    "compare-versions": "^3.6.0",
+    "terminal-link": "^2.1.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
